@@ -1,5 +1,5 @@
 # Genie
-Portafolio de Proyectos sobre Finanzas y Análisis Estadístico. Abordo temas como:
+Portafolio de Proyectos sobre Finanzas y Análisis Estadístico Genie
 
 * Simulación Estocástica
 * Portafolios de Inversión
