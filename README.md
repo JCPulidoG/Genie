@@ -1,2 +1,2 @@
 # Genie
-Portafolio de Proyectos sobre Finanzas y Análisis Estadístico Genie
+Portafolio de Proyectos sobre Finanzas y Análisis Estadístico
